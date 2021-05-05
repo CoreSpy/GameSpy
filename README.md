@@ -1,4 +1,4 @@
-# Odin
+# GameSpy Alternative
 ## A Multiplayer FPS Built From Scratch
 
 ### Requirements
