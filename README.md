@@ -4,3 +4,6 @@
 ### Requirements
  * Vulkan SDK
  * Visual Studio 2017
+ * Visual Studio 2019
+ * CodeBlocks
+ 
