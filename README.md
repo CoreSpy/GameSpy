@@ -1,5 +1,4 @@
-# GameSpy Alternative
-## A Multiplayer FPS UPLINK Built From Scratch
+# GameSpy Alternative, A Multiplayer Game HOST UPLINK Built From Scratch
 
 ### Requirements
  * Vulkan SDK
